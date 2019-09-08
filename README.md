@@ -1,3 +1,4 @@
+转载自https://github.com/JaryHuang/awesome_SSD_FPN_GIoU
 # SSD_FPN_GIoU, in PyTorch
 This is a SSD experiment reposity, the purpose is to reproduce some related papers based on SSD
 The code references [SSD: Single Shot MultiBox Object Detector, in PyTorch](https://github.com/amdegroot/ssd.pytorch) and [mmdet](https://github.com/open-mmlab/mmdetection). Currently, some experiments are carried out on the VOC dataset, if you want to train your own dataset, you can refer to the part of training-yourself-dataset.
